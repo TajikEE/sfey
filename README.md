@@ -1,3 +1,13 @@
+## Notes
+
+Project has been done using the same pre-setup Spring application that was provided. The schema.sql file has been removed because tables are auto initialized with entity model and account data is seeded from src > main > resources > data.sql
+
+There is also a test which can be run by:
+
+```
+gradle test
+```
+
 ## To build a project
 
 - Java 1.8 or newer
